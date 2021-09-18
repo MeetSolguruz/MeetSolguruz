@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MeetSolguruz
-- 👀 I’m interested in ...coding
+- 👀 I’m interested in ...coding and cricketing
 - 🌱 I’m currently learning ...flutter
 - 💞️ I’m looking to collaborate on ...any platform 
 - 📫 How to reach me ...just mail me # meetp.solguruz@gmail.com
