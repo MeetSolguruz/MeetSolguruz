@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MeetSolguruz
 - 👀 I’m interested in ...coding and cricketing
 - 🌱 I’m currently working with ...flutter
-- 📫 How to reach me ...just mail me # meetp.solguruz@gmail.com || patelmit001@gmail.com
+- 📫 How to reach me ...just mail me #patelmit001@gmail.com
 
 <!---
 MeetSolguruz/MeetSolguruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
